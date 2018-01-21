@@ -1,0 +1,14 @@
+package org.usfirst.frc.team6141.robot.misc;
+
+public enum AutoMode {
+
+	CENTER_GEAR,
+	LEFT_GEAR,
+	RIGHT_GEAR,
+	LEFT_GEAR_SHOOT,
+	RIGHT_GEAR_SHOOT,
+	LEFT_SHOOT,
+	RIGHT_SHOOT,
+	FORWARD_CROSS_LINE,
+	BACKWARD_CROSS_LINE
+}
